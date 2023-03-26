@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Material Icons";
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://localhost:5173/src/css/fonts/MaterialIcons/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2)
+    format("woff2");
+}
+@font-face {
+  font-family: Prompt-Black;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-Black.ttf);
+}
+@font-face {
+  font-family: Prompt-BlackItalic;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-BlackItalic.ttf);
+}
+@font-face {
+  font-family: Prompt-Bold;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-Bold.ttf);
+}
+@font-face {
+  font-family: Prompt-BoldItalic;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-BoldItalic.ttf);
+}
+@font-face {
+  font-family: Prompt-ExtraBold;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-ExtraBold.ttf);
+}
+@font-face {
+  font-family: Prompt-ExtraBoldItalic;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-ExtraBoldItalic.ttf);
+}
+@font-face {
+  font-family: Prompt-ExtraLight;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-ExtraLight.ttf);
+}
+@font-face {
+  font-family: Prompt-ExtraLightItalic;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-ExtraLightItalic.ttf);
+}
+@font-face {
+  font-family: Prompt-Italic;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-Italic.ttf);
+}
+@font-face {
+  font-family: Prompt-Light;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-Light.ttf);
+}
+@font-face {
+  font-family: Prompt-LightItalic;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-LightItalic.ttf);
+}
+@font-face {
+  font-family: Prompt-Medium;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-Medium.ttf);
+}
+@font-face {
+  font-family: Prompt-MediumItalic;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-MediumItalic.ttf);
+}
+@font-face {
+  font-family: Prompt-Regular;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-Regular.ttf);
+}
+@font-face {
+  font-family: Prompt-SemiBold;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-SemiBold.ttf);
+}
+@font-face {
+  font-family: Prompt-SemiBoldItalic;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-SemiBoldItalic.ttf);
+}
+@font-face {
+  font-family: Prompt-Thin;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-Thin.ttf);
+}
+@font-face {
+  font-family: Prompt-ThinItalic;
+  src: url(http://localhost:5173/src/css/fonts/Prompt/Prompt-ThinItalic.ttf);
+}
+.material-icons {
+  font-family: "Material Icons";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: "liga";
+  -webkit-font-smoothing: antialiased;
+}
